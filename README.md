@@ -1,5 +1,3 @@
-This site may take some time to load depending on your network connection, so please bear with us.
-
 # Vision Pro Clone
 
 ## Description
@@ -25,7 +23,7 @@ Vision Pro Clone is a modern web application that replicates the sleek and inter
 
 ## Live Demo
 
-NOTE :- This site may take some time to load as it utilizes canvas, which is dependent on your network connection. We appreciate your patience and understanding. Please wait until the site has fully loaded for           an optimal and enjoyable experience.For an even better experience, consider loading the website multiple times.
+**<span style="color: red;">NOTE</span>** :- This site may take some time to load as it utilizes canvas, which is dependent on your network connection. We appreciate your patience and understanding. Please wait until the site has fully loaded for           an optimal and enjoyable experience.For an even better experience, consider loading the website multiple times.
         Check out the live demo :-> https://kamalvisionpro.netlify.app/
 
 
