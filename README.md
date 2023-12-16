@@ -1,4 +1,6 @@
-# Vision Pro Clone
+<h1 align="center">
+       ✨  Vision Pro Clone  ✨
+</h1>
 
 ## Description
 
